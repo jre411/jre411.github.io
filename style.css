@@ -1,0 +1,26 @@
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background: #fff;
+  color: #111;
+  line-height: 1.6;
+}
+
+main {
+  max-width: 720px;
+  margin: 4rem auto;
+  padding: 0 1rem;
+}
+
+h1 {
+  margin-bottom: 0.2rem;
+}
+
+.subtitle {
+  color: #555;
+  margin-top: 0;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
